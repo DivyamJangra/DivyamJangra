@@ -6,51 +6,46 @@
 
 <br>
 
-## About
+<p align="center">
+  Cybersecurity student exploring how systems work, fail, and can be secured.
+</p>
 
-I'm a cybersecurity student focused on **offensive security, cryptography, reverse engineering, and low-level systems**.
+<br>
 
-I enjoy understanding how systems work, how they fail, and how security can be improved through hands-on experimentation, tooling, and research.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Current Direction
+### Currently
 
-- Offensive Security
-- Cryptography
-- Reverse Engineering
-- Low-Level Systems
-- Security Tooling
-- CTF Problem Solving
+**Propugn**  
+Private security platform under active development.
 
-## Currently Building
+**Security tooling**  
+Building small tools and automation while learning.
 
-**Propugn** — a security platform currently under private, active development.
+</td>
 
-Working across areas including identity, endpoint, cloud, and application security.
+<td width="50%" valign="top">
 
-## Technical Environment
+### Exploring
 
-**Languages**  
-`Python` · `C/C++` · `Java` · `Bash`
+`Offensive Security`  
+`Cryptography`  
+`Reverse Engineering`  
+`Low-Level Systems`  
+`CTF Problem Solving`
 
-**Security & Analysis**  
-`Ghidra` · `GDB` · `Burp Suite` · `Wireshark` · `Nmap`
+</td>
+</tr>
+</table>
 
-**Systems & Tools**  
-`Linux` · `Git` · `Docker`
+### Toolkit
 
-## What I'm Working Toward
+`Linux` · `Python` · `C/C++` · `Bash` · `Git` · `Docker` · `Ghidra` · `GDB` · `Burp Suite`
 
-Building deeper knowledge in:
-
-- Binary analysis
-- Applied cryptography
-- Web exploitation
-- Vulnerability research
-- Linux internals
-- Offensive security tooling
-
----
+<br>
 
 <p align="center">
-  <sub>Build • Break • Understand • Improve</sub>
+  <sub>Build · Break · Understand · Improve</sub>
 </p>
